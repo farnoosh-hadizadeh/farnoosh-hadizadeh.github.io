@@ -33,18 +33,21 @@
       "highlights": ["Relativity"]
     }
   ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
+"volunteer": [
+  {
+    "organization": "OMAE 2025 Conference",
+    "location": "Vancouver, Canada",
+    "position": "Conference Volunteer",
+    "url": "https://event.asme.org/OMAE",
+    "startDate": "2025-06-10",
+    "endDate": "2025-06-14",
+    "summary": "Volunteering at the International Conference on Ocean, Offshore and Arctic Engineering (OMAE 2025), supporting session logistics and delegate coordination.",
+    "highlights": [
+      "Assisting with registration, session transitions, and technical support.",
+      "Contributing to the smooth organization of a major international engineering conference."
+    ]
+  }
+],
 "education": [
     {
       "institution": "University of British Columbia",
