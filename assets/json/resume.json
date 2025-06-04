@@ -64,7 +64,8 @@
       "studyType": "Master of Science",
       "startDate": "2016-09-01",
       "endDate": "2018-08-01",
-      "score": "10"
+      "score": "10",
+      "courses": ["<b>Thesis Title:</b> Multi-objective Optimization of Pin Fin Cooling Channels in Gas Turbine Blades using Surrogate Models"]
     },
     {
       "institution": "K.N. Toosi University of Technology, Tehran, Iran",
