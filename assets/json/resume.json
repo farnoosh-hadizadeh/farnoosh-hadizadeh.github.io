@@ -47,26 +47,6 @@
   ],
   "education": [
     {
-      "institution": "University of British Columbia",
-      "location": "Vancouver, Canada",
-      "url": "https://www.uzh.ch/",
-      "area": "Mechanical Engineering",
-      "studyType": "Doctor of Philosophy (PhD)",
-      "startDate": "2022-01-01",
-      "endDate": "Present",
-      "score": "10",
-    },
-    {
-      "institution": "University of Tehran",
-      "location": "Tehran, Iran",
-      "url": "https://www.uzh.ch/",
-      "area": "Mechanical Engineering (Energy Conversion)",
-      "studyType": "Master of Science",
-      "startDate": "2016-09-01",
-      "endDate": "2018-08-01",
-      "score": "10",
-    },
-    {
       "institution": "K.N. Toosi University of Technology, Tehran, Iran",
       "location": "Tehran, Iran",
       "url": "https://www.uzh.ch/",
