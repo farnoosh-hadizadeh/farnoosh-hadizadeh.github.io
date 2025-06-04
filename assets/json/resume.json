@@ -41,10 +41,7 @@
     "url": "https://event.asme.org/OMAE",
     "startDate": "2025-06-10",
     "endDate": "2025-06-14",
-    "summary": "Volunteering at the International Conference on Ocean, Offshore and Arctic Engineering (OMAE 2025), supporting session logistics and delegate coordination.",
-    "highlights": [
-      "Assisting with registration, session transitions, and technical support.",
-      "Contributing to the smooth organization of a major international engineering conference."
+    "summary": "Volunteering at the International Conference on Ocean, Offshore and Arctic Engineering (OMAE 2025), supporting session logistics and event coordination.",
     ]
   }
 ],
@@ -60,7 +57,7 @@
       "score": "10"
     },
     {
-      "institution": "<span style="font-weight: 700;">Master of Science</span> in Mechanical Engineering (Energy Conversion)",
+      "institution": "<b>Master of Science</b> in Mechanical Engineering (Energy Conversion)",
       "location": "Tehran, Iran",
       "url": "https://farnoosh-hadizadeh.github.io/cv/",
       "studyType": "University of Tehran",
