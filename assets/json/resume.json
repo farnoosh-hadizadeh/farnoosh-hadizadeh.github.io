@@ -45,7 +45,27 @@
       "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
     }
   ],
-  "education": [
+"education": [
+    {
+      "institution": "University of British Columbia",
+      "location": "Vancouver, Canada",
+      "url": "https://www.uzh.ch/",
+      "area": "Mechanical Engineering",
+      "studyType": "Doctor of Philosophy (PhD)",
+      "startDate": "2022-01-01",
+      "endDate": "Present",
+      "score": "10"
+    },
+    {
+      "institution": "University of Tehran",
+      "location": "Tehran, Iran",
+      "url": "https://www.uzh.ch/",
+      "area": "Mechanical Engineering (Energy Conversion)",
+      "studyType": "Master of Science",
+      "startDate": "2016-09-01",
+      "endDate": "2018-08-01",
+      "score": "10"
+    },
     {
       "institution": "K.N. Toosi University of Technology, Tehran, Iran",
       "location": "Tehran, Iran",
@@ -54,7 +74,7 @@
       "studyType": "Bachelor of Science",
       "startDate": "2012-09-01",
       "endDate": "2016-08-01",
-      "score": "10",
+      "score": "10"
     }
   ],
   "awards": [
