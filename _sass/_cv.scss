@@ -194,6 +194,10 @@ ul.timeline li::before {
   left: 2px;
   top: -0.5rem;
 }
+strong, b {
+  font-weight: 700 !important;
+}
+
 
 /*ul.timeline::before {
      content: "●";
